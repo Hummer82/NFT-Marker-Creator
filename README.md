@@ -1,4 +1,4 @@
-# NFT MARKER CREATOR
+# NFT MARKER CREATOR 
 
 This editor creates NFT markers for ARTOOLKIT 5.x, and it is part of the efforts to bring NFT tracking to jsartoolkit5 (and eventually projects like AR.js).
 
